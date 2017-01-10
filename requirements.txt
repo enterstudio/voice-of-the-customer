@@ -1,10 +1,9 @@
-
 # web app
 flask==0.11.1
 python-dotenv
-cf-deployment-tracker
 cloudant
 couchdbkit
+cf-deployment-tracker
 nltk
-watson_developer_cloud
+watson_developer_cloud>=0.23.0
 configparser

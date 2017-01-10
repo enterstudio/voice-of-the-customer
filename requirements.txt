@@ -7,3 +7,4 @@ cf-deployment-tracker
 nltk
 watson_developer_cloud>=0.23.0
 configparser
+jupyter

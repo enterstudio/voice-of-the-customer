@@ -8,3 +8,4 @@ nltk
 watson_developer_cloud>=0.23.0
 configparser
 jupyter
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability

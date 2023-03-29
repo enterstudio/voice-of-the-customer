@@ -8,3 +8,5 @@ nltk
 watson_developer_cloud>=0.23.0
 configparser
 jupyter
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
